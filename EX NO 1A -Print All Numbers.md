@@ -6,7 +6,6 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 ### Algorithm
 
-
 1. Start the program.
 
 2.Read an integer input N from the user.
